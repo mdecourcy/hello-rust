@@ -1,0 +1,1 @@
+/home/macdecourcy/Code/rust/learning/hello-rust/target/debug/hello-world: /home/macdecourcy/Code/rust/learning/hello-rust/src/main.rs /home/macdecourcy/Code/rust/learning/hello-rust/src/print.rs /home/macdecourcy/Code/rust/learning/hello-rust/src/types.rs /home/macdecourcy/Code/rust/learning/hello-rust/src/vars.rs
